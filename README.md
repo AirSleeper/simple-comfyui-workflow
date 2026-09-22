@@ -5,7 +5,7 @@ A set of pre-configured ComfyUI workflows covering text-to-image, image editing,
 ## Quick Start
 
 1. **Install ComfyUI** — Follow the [official guide](https://github.com/comfyanonymous/ComfyUI)
-2. **Download required models** — See model links and storage paths below
+2. **Download required models** — Most of the models can be directly downloaded from ComfyDesktop. For specific loras, pleae see model links and storage paths below
 3. **Load a workflow** — In the ComfyUI web interface, click Load and select any `.json` file
 4. **Configure parameters** — Adjust prompts, models, and sampling settings as needed
 5. **Run generation** — Click Queue Prompt to start
